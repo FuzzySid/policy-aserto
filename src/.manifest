@@ -1,5 +1,5 @@
 {
-    "roots": ["asertodemo"],
+    "roots": ["asertodemo","roles"],
     "metadata": {
       "required_builtins": {
           "builtin1": [
